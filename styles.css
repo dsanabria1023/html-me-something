@@ -1,15 +1,16 @@
 body{
     background-color: #00002c;
-    color: #e0e0eb;
 }
 .header{
     text-align: center;
+    color: #ffffffad;
     font-family: 'IM Fell English SC', serif;
     font-size: 40px;
     margin: 25px;
 }
 p{
     margin: 2em;
+    color: #ffffffad;
     font-family: 'Georgia', serif;
 }
 img{
